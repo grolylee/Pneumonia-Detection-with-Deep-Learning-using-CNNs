@@ -43,7 +43,7 @@ Object Detection using Convolutional Neural Network (CNN), Application of imgage
 
 ## DenseNet-121
 - 120 layers CNNs, 1 layers Fully-Connected and 4 layers Dense
-- \
+
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/fb8f42d1-821d-4c2d-901d-f4b5b8f4857a" />
 
 # Result 
