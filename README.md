@@ -18,5 +18,6 @@ Object Detection using Convolutional Neural Network (CNN), Application of imgage
 
 **Data augmentation**
 - Flip, rotation, scale, random crop, translation, zoom.
+<img width="397" alt="Data Augmentation" src="https://github.com/user-attachments/assets/31e08a88-1a9f-43a3-931c-02b05e95f504" />
 
 ## Traning model
