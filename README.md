@@ -1,4 +1,4 @@
-![79d9cf1a-ddc7-4710-a80e-3defb391de06](https://github.com/user-attachments/assets/64396bfd-3855-449a-8055-773b0a6300ed)# Pneumonia-Detection-with-Deep-Learning-using-CNNs
+# Pneumonia-Detection-with-Deep-Learning-using-CNNs
 Object Detection using Convolutional Neural Network (CNN), Application of imgage precessing and AI to detect pneumonia, classification using X-ray images
 # Project objective
 1. Knowledge of Machine Learning and Deep Learning Techniques
@@ -35,6 +35,7 @@ Object Detection using Convolutional Neural Network (CNN), Application of imgage
 
 ## VGG16 Model 
 - 16 layers included 13 layers CNNs and 3 layers Fully-Connected
+  
 <img width="649" alt="image" src="https://github.com/user-attachments/assets/c224e773-479f-4b86-a945-a2a7cf7523e4" />
 
 ## Resnet50
@@ -42,6 +43,7 @@ Object Detection using Convolutional Neural Network (CNN), Application of imgage
 
 ## DenseNet-121
 - 120 layers CNNs, 1 layers Fully-Connected and 4 layers Dense
+- \
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/fb8f42d1-821d-4c2d-901d-f4b5b8f4857a" />
 
 # Result 
